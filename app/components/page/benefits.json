@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_page_benefits",
+  "info": {
+    "name": "benefits",
+    "icon": "award"
+  },
+  "options": {},
+  "attributes": {
+    "benefitsTitle": {
+      "type": "richtext"
+    }
+  }
+}
